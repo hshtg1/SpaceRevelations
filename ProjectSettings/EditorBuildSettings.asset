@@ -10,5 +10,20 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Under.unity
-    guid: fb08bd1dd4f89284dae71bbf6fca84e5
+    guid: 7ee82d8ec39f9614dbbdfc1c817ba179
+  - enabled: 1
+    path: Assets/Scenes/Through.unity
+    guid: eb4a28dbd0a71a8409a7c1f1bbde92cb
+  - enabled: 1
+    path: Assets/Scenes/Wall.unity
+    guid: 371b3eca719bde24ab5ddfc01675787d
+  - enabled: 1
+    path: Assets/Scenes/Moving Gaps.unity
+    guid: 1f70a84bd2b64624394608df5db8a991
+  - enabled: 1
+    path: Assets/Scenes/Broken.unity
+    guid: 69a4c44c29a0d4545ac7fd9be8ecc35b
+  - enabled: 1
+    path: Assets/Scenes/Difficult Landing.unity
+    guid: 2519b6308fbcd0d42abdfdae67b4b0a9
   m_configObjects: {}
